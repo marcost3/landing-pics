@@ -1,9 +1,9 @@
 import React from 'react'
 
 const works = [
-  { title: 'Revista Metal', img: '/work1.jpg' },
-  { title: 'Campaña Levi’s 2023', img: '/work2.jpg' },
-  { title: 'Festival de Fotografía Urbana', img: '/work3.jpg' },
+  { title: 'Revista Metal', img: 'https://images.pexels.com/photos/29205058/pexels-photo-29205058/free-photo-of-primer-plano-de-una-guitarra-electrica-con-pua.jpeg' },
+  { title: 'Campaña Levi’s 2023', img: 'https://images.pexels.com/photos/14528152/pexels-photo-14528152.jpeg' },
+  { title: 'Festival de Fotografía Urbana', img: 'https://images.pexels.com/photos/833052/pexels-photo-833052.jpeg' },
 ]
 
 const Works = () => (
