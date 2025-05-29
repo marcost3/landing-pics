@@ -1,7 +1,8 @@
-import React from 'react'
+import React from 'react';
+import 'About.css';
 
 const About = () => (
-  <section id="sobre" className="py-5 bg-light">
+  <section id="sobre" className="about-section py-5">
     <div className="container">
       <h2 className="text-center mb-4">Sobre mí</h2>
       <p className="lead text-center">
@@ -10,6 +11,6 @@ const About = () => (
       </p>
     </div>
   </section>
-)
+);
 
-export default About
+export default About;

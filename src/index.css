@@ -11,3 +11,9 @@ section {
   margin: 0;
   padding: 0;
 }
+
+#inicio {
+  padding-top: 4.5rem;
+  background-color: #121212;
+  min-height: 100vh;
+}
