@@ -1,5 +1,5 @@
 import React from 'react';
-import 'About.css';
+/*import 'About.css'; */
 
 const About = () => (
   <section id="sobre" className="about-section py-5">
